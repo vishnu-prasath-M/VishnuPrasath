@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header-vishnu-prasath.svg" width="100%" alt="Vishnu Prasath M Header" />
+  <img src="assets/header-vishnu-prasath.svg" width="100%" alt="Vishnu Prasath M Header" />
 </p>
 
 <p align="center">
@@ -216,7 +216,7 @@ deposits, interest earnings, withdrawals, transactions and administrative operat
 </p>
 
 <p align="center">
-  <img src="quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
 </p>
 
 ---
@@ -272,5 +272,5 @@ deposits, interest earnings, withdrawals, transactions and administrative operat
 </table>
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Footer" />
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
