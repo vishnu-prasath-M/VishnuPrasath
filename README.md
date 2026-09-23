@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Vishnu Prasath M Header" />
+  <img src="assets/header-vishnu-prasath.svg" width="100%" alt="Vishnu Prasath M Header" />
 </p>
 
 <p align="center">
