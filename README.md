@@ -216,7 +216,7 @@ deposits, interest earnings, withdrawals, transactions and administrative operat
 </p>
 
 <p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+  <img src="quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
 </p>
 
 ---
@@ -272,5 +272,5 @@ deposits, interest earnings, withdrawals, transactions and administrative operat
 </table>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="footer.svg" width="100%" alt="Footer" />
 </p>
